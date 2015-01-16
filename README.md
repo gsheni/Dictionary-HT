@@ -2,6 +2,7 @@ Dictionary-HT
 =============
 
 This program uses a HashTable class to work with a dictionary program. 
+
 The Dictionary program reads in a command line argument that corresponds to an English-French dictionary file. 
 The dictionary file is formatted such that the first word is the English word, and the rest is the French definition. 
 A single tab (“\t”) separates the word and the definition.
