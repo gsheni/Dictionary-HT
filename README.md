@@ -15,4 +15,3 @@ To retrieve a DictionaryEntry object from the hash table, a “retrieve” metho
 Once the hash table is complete, the program takes in a single word (no checks required) and output the same word and the definition (both retrieved from the hash table) on two consecutive lines. 
 If the user enters the word “random”, the program outputs a random word and definition (again, on two consecutive lines). 
 If the word is not found in the dictionary, two blank consecutive lines are outputted. This process is be looped infinitely.
-
